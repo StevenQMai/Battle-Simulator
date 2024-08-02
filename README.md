@@ -7,7 +7,6 @@ A simple yet engaging text-based combat game where a hero battles against an ene
 - [How to Play](#how-to-play)
 - [Controls](#controls)
 - [Game Features](#game-features)
-- [Credits](#credits)
 
 ## Installation
 
