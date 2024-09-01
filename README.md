@@ -1,6 +1,6 @@
-# Battle-Simulator
+# Battle-Simulator (WIP)
 
-A simple yet engaging text-based combat game where a hero battles against an enemy. Players choose a weapon for the hero and witness the outcome of the battle based on the chosen weapons and events.
+A combat simulator with a GUI, where a hero battles against an enemy. Players choose a weapon for the hero and witness the outcome of the battle based on the chosen weapons and events.
 
 ## Table of Contents
 1. [How to Play](#how-to-play)
@@ -22,8 +22,8 @@ Your goal is to defeat the enemy by selecting a weapon for the hero and engaging
 ## Controls
 
 - **Weapon Selection:** Choose a weapon by entering the corresponding ID number when prompted.
-- **Continue Battle:** Press [ENTER] to proceed to the next turn.
-- **Drop Weapon:** Enter "G" to drop your weapon and see its effects on the battle.
+- **Fight:** Press the "Fight" button to attack the enemy.
+- **Drop Weapon:** Press the "Drop" button to drop your weapon.
 
 ## Game Features
 
